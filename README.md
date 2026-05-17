@@ -5,7 +5,7 @@
 VoiceScreen is a full-stack application that lets HR teams replace the most repetitive part of hiring — the initial phone screen — with a natural, voice-first AI agent. Drop in a job description, pick 3 to 5 questions, and the agent calls the candidate, has a real conversation, then hands you a scored, structured report.
 
 ---
-# GitHub Link: 
+## GitHub Link: http://github.com/KRSNA568/VoiceScreen
 
 
 ## Table of Contents
